@@ -15,8 +15,14 @@
     - [Performance matters](#Performance-matters)
     - [Real Time Web](#Real-Time-Web)
   - [Progress meetings with the UX students and the Wikiminds founders](#Progress-meetings-with-the-UX-students-and-the-Wikiminds-founders)
+    - [Debriefing meeting 1](#Debriefing-meeting-1)
+    - [Debriefing meeting 2](#Debriefing-meeting-2)
+    - [Debriefing meeting 3](#Debriefing-meeting-3)
+    - [Debriefing meeting 4](#Debriefing-meeting-4)
   - [Coaching Sessions](#Coaching-Sessions)
-  - [Code Reviews](#Code-Reviews)
+    - [Coaching session 1](#Coaching-session-1)
+    - [Coaching session 2](#Coaching-session-2)
+  - [Code reviews](#Code-reviews)
   - [Conclusion](#Conclusion)
 
 ## Description
@@ -92,10 +98,335 @@ Like described earlier in the Browser Tech learning goals I used sockets to comm
 
 We attended multiple meetings with the founders of Wikiminds (consisting partially of Roland Ritmeester, who will also be grading our project).
 
+### Debriefing meeting 1
+
+<details>
+<summary>
+Debriefing Wikiminds Sustainability meeting 1, click to expand
+</summary>
+Innovative free minds -> ideas <- issues
+When issues and innovative free minds get together ideas are born.
+
+Multi sided platform, you need users to contribute to your ‘empty’ website.
+
+Innovation warehouse, an example of how it shouldn’t be done. Looks like a product that was made just because they needed something to show for G20.
+
+Grand debat, let users (citizens) freely contribute ideas on a large scale; how do you process these ideas.
+
+As many people as possible should be able to contribute to the platform.
+
+Person can submit an idea for a certain problem.
+
+Person can submit a problem which needs ideas.
+
+What are we creating?
+Concepts for an application that supports and provides a platform for Wikiminds.
+
+First physical/clickable prototype to give everyone who’s interested an impression of how the platform would work/behave.
+
+Intuitive, user wants to use Wikiminds, and wants to be a part of the brand.
+
+This will also give them initiative to post about it/ be proud of their Wikiminds work.
+
+_Core functionality:_
+
+- See issues
+- Submit issues
+- Submit possible solutions to issues
+- Vote on solutions
+- Contact people proposing solutions
+- Ability to post results on wiki minds when something takes off
+- Ability for people to contribute their practical skills / knowledge to ideas
+- Possible functionality:
+- Share your issues/problems somewhere to make people contribute
+- News source with relevant news
+- Show your experience / contributions
+
+_Questions to think about in relation to the concept phase:_
+
+- Why would people contribute? How to make it attractive to use this website?
+- What works about youtube/facebook in terms to attracting and keeping a large user base?
+- What doesn’t?
+- Account system, show people what you’ve done? How would this work?
+- Verified education / linked verification for skills etc. Show your experience.
+- Which ways of voting are there? (useful for voting on ideas/solutions)
+- What happens when an idea is in progress (do people see the progress?)
+- What happens when an idea is done
+- What to deliver:
+- A web application showcasing a possible approach to such a platform
+- Multiple concepts of which one is more developed
+  </details>
+
+### Debriefing meeting 2
+
+<details>
+<summary>
+Debriefing Wikiminds Sustainability meeting 2, click to expand
+</summary>
+Inspiratie UX’ers:
+Journey met updates
+Filter/sorteer soorten
+Set up, eerste keer bezoeken van de website
+Horizontaal swipen met kaarten (tinderlike?)
+Profiel opbouwen, achievements
+Top answer, meest ge upvote antwoord
+Levels om steeds ingewikkeldere problemen op te gaan lossen
+Kleine persoonlijke problemen, how can I persuade the neighbour to use the car less
+Vragen Roland:
+Volgende core functionaliteit? minimal viable product
+Bezig met een ux app, webapplicatie?
+multi sided platform, dus ja
+Meteen ingelogd of kun je alles bekijken zonder ingelogd te zijn?
+niet meteen
+Welke informatie geef je op een kaartje
+-
+Upvote/downvote, manier van voten
+-
+Punten systeem per profiel
+Kan helpen, niet alles bepalend
+Rollen?
+Gebruikers, zelfde profiel 
+ v
+ v
+ v
+Vraagsteller
+  Oplosser
+  Bekijker
+    Voter
+Genres?
+Maatschappij
+Milieu
+Problemen op nati
+Beste testpersonen, persona
+Trending/recommended
+Update platform
+Hoelang is data beschikbaar?
+Wat voor formulier om in te vullen
+Foto’s uploaden, mensen uitleg geven over wat voor foto en waarom een foto relevant zou kunnen zijn
+Suggesties om op verder te werken
+Ideeën:
+aangeraden voor jou (youtube achtig systeem)
+guide om een aantrekkelijk probleem te maken
+Google analytics over je post, heel veel mensen lezen maar weinig reactie?
+Kleine ideeën met snelle oplossingen
+Niet meteen hoeven inloggen zodat je ideeën aan iedereen kan laten zien
+Categorieën kleine / grote problemen, alles oplossen
+Problemen op nationaal niveau voor mensen van die nationaliteit
+Bij het aanmaken van een issue krijg je bestaande issues te zien
+</details>
+
+### Debriefing meeting 3
+
+<details>
+<summary>
+Debriefing Wikiminds Sustainability meeting 3, click to expand
+</summary>
+Roland Ritmeester & UX’ers 3
+
+Software used by grand debat useful for wikiminds?
+
+Provide solutions without issues
+
+Ideaboard, show others your ideas
+
+Completing a profile
+^ expertise
+^ education
+^ full name
+^ biography
+
+Raise the participation level
+
+Progress bar of an issue
+
+chat groups
+
+recognition for helping/asking questions -> stack overflow
+
+subscribing to a certain category
+
+challenge instead of issue/problem
+
+being able to invite others
+
+when someone asks to join, there needs to be a place to accept joiners
+
+use the search function on choosing a new title so you can see if similar problems already exist
+
+How do you give users the feeling of community when there’s a lot of users
+
+The bigger the issue the bigger the reward
+
+people who make issues can use their points to award people contributing and providing solutions
+
+see solved issues, ways to solve an issue
+
+Earning badges for different accomplishments
+
+How to determine whether an issue is small or big
+
+quick brainstorm session
+
+Questions:
+
+What added functionality are you guys most enthusiastic about and want us to implement the most?
+
+Functionalities:
+
+- Notifications
+- Complete profile
+- Combination of twitter popularity and news sites
+  </details>
+
+### Debriefing meeting 4
+
+<details>
+<summary>
+Debriefing Wikiminds Sustainability meeting 4, click to expand
+</summary>
+Notes on the user test:
+
+Don’t have an account yet too small
+
+password hidden
+
+Adding skills; checkboxes + own skill
+
+Show uploaded picture
+
+In menu -> go to favorites
+
+no redirects
+
+Double Posting
+
+Contributing
+
+Show live tweets
+
+Reageren op reacties
+
+Roland seemed pretty excited about the prototype when using it on his phone
+
+Recommended for you
+
+Meeting 2 koop
+
+Comments weergeven op pagina
+
+Issue op detail page -> description
+
+Belangrijkste flow 100% duidelijk voor een leek
+
+Wat moet er donderdag staan
+
+</details>
+
 ## Coaching Sessions
 
 The following text will describe the meetings with our assignment coach (Janno Kapritsias) and how we implemented the results of those meetings into our final product.
 
-## Code Reviews
+### Coaching session 1
+
+<details>
+<summary>
+Coaching session 1, click to expand
+</summary>
+1 gezamenlijke repo
+
+individuele repo met leerdoelen, link met de rubrics
+
+Github tickets scrum, linken aan leerdoelen in persoonlijke repo
+project repo is voor de klant met engelse documentatie
+beide repo’s met readme, die voor de klant is voor professionele presentaties
+laat leerdoelen zien
+Hoeveel leerdoelen? css/ wafs/ browser tech/ real time. 5/6/7 uitlichten
+Prototype, laat de belangrijke dingen zien
+Janno vrijdag afspraak 13u bph.
+
+1. repos opzetten (branches, pullen, mergen), goede backups maken
+2. overview van tickets op GitHub van wat we moeten doen
+3. welke leerdoelen wil ik koppelen, 3/4 vakken per criterium van de rubric, laten zien waar je beter in bent geworden
+4. context van het project, wat gaan we daar in koppelen. Scope.
+5. Tech stack bepalen en toelichten
+
+Vragen Janno:
+
+1. Kaarten zo goed? Hoe zie je wie wat doet?
+2. Core functionaliteiten?
+   </details>
+
+### Coaching session 2
+
+<details>
+<summary>
+Coaching session 2, click to expand
+</summary>
+Vragen Janno:
+
+Design rationale / Product biography:
+
+Persoonlijke repo:
+
+Wie ben ik
+Meesterproef beginkennis
+Leerdoelen + rubric
+Case Korte beschrijving project
+Wie zijn de stakeholders/gebruikers
+user requirements -> features bv login
+^^ linken aan de leerdoelen
+Waar liep ik tegen aan, wat heb ik gedaan per week
+Logboek meetings met Roland
+Observeren, reflecteren, leren van fouten
+
+Product / biografie:
+
+concept
+tech stack en waarom
+functionaliteiten
+wishlist
+
+Donderdag beoordeling 1330 media lounge
+
+Visuele casus, (poster?), korte pitch daarna interactie
+proberen te breken
+
+welke read me is wat? content van die read me?
+
+logboeken meetings, leerdoelen
+
+Polijsten rest
+
+</details>
+
+## Code reviews
+
+I also had two code reviews with Koop, where we reflected on my learning goals and how to achieve them.
+
+<details>
+<summary>
+Code review, click to expand
+</summary>
+Gesprek Koop
+
+reflecteren op mijn rol als frontender
+
+basis en tech stack neergezet, daardoor code hergebruiken en opnieuw proberen
+
+snel itereren op onze stack, testen kan daardoor snel
+
+mooi product neerzetten
+
+testen
+
+productbiografie - procesboek, individueel readme, leerdoelen, dit gesprek, proces
+
+design rationale - bij het product, wij vorm, readme over installeren ed.
+
+_ga iets cools maken_
+
+</details>
 
 ## Conclusion
+
+My final conclusion on this project
