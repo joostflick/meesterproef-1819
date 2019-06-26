@@ -16,13 +16,20 @@
     - [Real Time Web](#Real-Time-Web)
   - [Progress meetings with the UX students and the Wikiminds founders](#Progress-meetings-with-the-UX-students-and-the-Wikiminds-founders)
     - [Debriefing meeting 1](#Debriefing-meeting-1)
+      - [Take aways from meeting 1](#Take-aways-from-meeting-1)
     - [Debriefing meeting 2](#Debriefing-meeting-2)
+      - [Take aways from meeting 2](#Take-aways-from-meeting-2)
     - [Debriefing meeting 3](#Debriefing-meeting-3)
+      - [Take aways from meeting 3](#Take-aways-from-meeting-3)
     - [Debriefing meeting 4](#Debriefing-meeting-4)
+      - [Take aways from meeting 4](#Take-aways-from-meeting-4)
   - [Coaching Sessions](#Coaching-Sessions)
     - [Coaching session 1](#Coaching-session-1)
+      - [Take aways coaching session 1](#Take-aways-coaching-session-1)
     - [Coaching session 2](#Coaching-session-2)
+      - [Take aways coaching session 2](#Take-aways-coaching-session-2)
   - [Code reviews](#Code-reviews)
+      - [Take aways code review 1](#Take-aways-code-review-1)
   - [Conclusion](#Conclusion)
 
 ## Description
@@ -155,7 +162,21 @@ _Questions to think about in relation to the concept phase:_
 - What to deliver:
 - A web application showcasing a possible approach to such a platform
 - Multiple concepts of which one is more developed
+
   </details>
+
+#### Take aways from meeting 1
+
+It is important to find a way for users to bind to the platform, a good motivation is needed to be willing to devote your time to thinking about issues and solutions to them.
+
+The account system has to function in such a way that it can reward users for contributing, but that an account isn't needed for the basic functionality of the application.
+
+The minimal viable product needs to incorporate the following core functionalities:
+
+- See/submit issues and comment on them
+- Submit solutions and vote on them
+- A working account system that keeps track of users activity
+- Get recommendations for certain issues you might be interested in.
 
 ### Debriefing meeting 2
 
@@ -163,40 +184,45 @@ _Questions to think about in relation to the concept phase:_
 <summary>
 Debriefing Wikiminds Sustainability meeting 2, click to expand
 </summary>
-Inspiratie UX’ers:
-Journey met updates
-Filter/sorteer soorten
-Set up, eerste keer bezoeken van de website
-Horizontaal swipen met kaarten (tinderlike?)
-Profiel opbouwen, achievements
-Top answer, meest ge upvote antwoord
-Levels om steeds ingewikkeldere problemen op te gaan lossen
-Kleine persoonlijke problemen, how can I persuade the neighbour to use the car less
-Vragen Roland:
-Volgende core functionaliteit? minimal viable product
-Bezig met een ux app, webapplicatie?
-multi sided platform, dus ja
-Meteen ingelogd of kun je alles bekijken zonder ingelogd te zijn?
-niet meteen
-Welke informatie geef je op een kaartje
--
-Upvote/downvote, manier van voten
--
+*Inspiratie UX’ers:*
+- Journey met updates
+- Filter/sorteer soorten
+- Set up, eerste keer bezoeken van de website
+- Horizontaal swipen met kaarten (tinderlike?)
+- Profiel opbouwen, achievements
+- Top answer, meest ge upvote antwoord
+- Levels om steeds ingewikkeldere problemen op te gaan lossen
+- Kleine persoonlijke problemen, e.g. how can I persuade the neighbour to use the car less
+
+_Vragen Roland:_
+
+- Volgende core functionaliteit? Minimal viable product
+- Bezig met een ux app, webapplicatie?
+  multi sided platform, dus ja
+- Meteen ingelogd of kun je alles bekijken zonder ingelogd te zijn?
+  Iedereen moet content kunnen zien, inloggen voor posten issues en/of comments
+- Welke informatie geef je op een issue card
+
+- Upvote/downvote, manier van voten.
+  Reddit achtig
+
 Punten systeem per profiel
-Kan helpen, niet alles bepalend
+Gamification kan helpen, niet alles bepalend
+
 Rollen?
-Gebruikers, zelfde profiel 
- v
- v
- v
-Vraagsteller
-  Oplosser
-  Bekijker
-    Voter
-Genres?
-Maatschappij
-Milieu
-Problemen op nati
+_Gebruikers_
+
+1. Vraagsteller
+2. Oplosser
+3. Bekijker
+4. Voter
+
+_Genres_
+
+1. Maatschappij
+2. Milieu
+3. Problemen op nationaal niveau
+
 Beste testpersonen, persona
 Trending/recommended
 Update platform
@@ -204,16 +230,33 @@ Hoelang is data beschikbaar?
 Wat voor formulier om in te vullen
 Foto’s uploaden, mensen uitleg geven over wat voor foto en waarom een foto relevant zou kunnen zijn
 Suggesties om op verder te werken
-Ideeën:
-aangeraden voor jou (youtube achtig systeem)
-guide om een aantrekkelijk probleem te maken
-Google analytics over je post, heel veel mensen lezen maar weinig reactie?
-Kleine ideeën met snelle oplossingen
-Niet meteen hoeven inloggen zodat je ideeën aan iedereen kan laten zien
-Categorieën kleine / grote problemen, alles oplossen
-Problemen op nationaal niveau voor mensen van die nationaliteit
-Bij het aanmaken van een issue krijg je bestaande issues te zien
-</details>
+
+_Ideeën:_
+
+- aangeraden voor jou (youtube achtig systeem)
+- guide om een aantrekkelijk probleem te maken waar mensen op willen reageren
+- Google analytics over je post, heel veel mensen lezen maar weinig reactie? Wat moet er dan veranderen
+- Kleine ideeën met snelle oplossingen
+- Niet meteen hoeven inloggen zodat je ideeën aan iedereen kan laten zien
+- Categorieën kleine / grote problemen, alles oplossen
+- Problemen op nationaal niveau voor mensen van die nationaliteit
+- Bij het aanmaken van een issue krijg je bestaande issues te zien
+  </details>
+
+#### Take aways from meeting 2
+
+Creating some sort of user journey through the application could help motivating users to join a cause.
+
+The platform has to be for a multitude of roles, for example:
+
+- Question asker
+- Problem solver
+- Curious person (lurker)
+- A voter
+
+Each of these has to be appealed by the platform by giving them enough possibilities.
+
+Furthermore we got some inspiration for additional functionalities for the application.
 
 ### Debriefing meeting 3
 
@@ -229,11 +272,12 @@ Provide solutions without issues
 
 Ideaboard, show others your ideas
 
-Completing a profile
-^ expertise
-^ education
-^ full name
-^ biography
+_Completing a profile_
+
+- expertise
+- education
+- full name
+- biography
 
 Raise the participation level
 
@@ -278,6 +322,21 @@ Functionalities:
 - Combination of twitter popularity and news sites
   </details>
 
+#### Take aways from meeting 3
+
+People need to have a profile with more information than just a username and a full name. This can help make your wikiminds profile be part of your portfolio.
+
+Possible things to be added to the profile:
+
+- Expertise
+- Education
+- Location
+- Biography
+- Issues/comments posted
+- etc.
+
+Users should be proud of sharing their profile with others to show them the accomplishments they've made on the platform.
+
 ### Debriefing meeting 4
 
 <details>
@@ -286,7 +345,7 @@ Debriefing Wikiminds Sustainability meeting 4, click to expand
 </summary>
 Notes on the user test:
 
-Don’t have an account yet too small
+Don’t have an account yet button is too small
 
 password hidden
 
@@ -310,17 +369,17 @@ Roland seemed pretty excited about the prototype when using it on his phone
 
 Recommended for you
 
-Meeting 2 koop
-
-Comments weergeven op pagina
-
-Issue op detail page -> description
-
-Belangrijkste flow 100% duidelijk voor een leek
-
-Wat moet er donderdag staan
-
 </details>
+
+#### Take aways from meeting 4
+
+This meeting was mainly used by us as a group testing session, from which we substracted some valuable feedback.
+
+Most issues were about the flow of the application, slowing the process of participating on the platform down.
+
+All in all people seemed enthusiastic about the functionalities of the prototype though which was a good thing to hear.
+
+Since this was the last meeting from here on we focussed on polishing the product we already had instead of adding new functionalities.
 
 ## Coaching Sessions
 
@@ -355,6 +414,14 @@ Vragen Janno:
 1. Kaarten zo goed? Hoe zie je wie wat doet?
 2. Core functionaliteiten?
    </details>
+
+#### Take aways coaching session 1
+
+Our first coaching session was mainly figuring out how to handle this project.
+
+It wasn't clear for us in which way we would be cooperating with the students from the UX minor and we were somewhat lost in what to do.
+
+After discussing which tools we were going to use (Github projects, gitbook) and what our deliverables were exactly we had a better idea of the scope of the meesterproef and how to continue.
 
 ### Coaching session 2
 
@@ -399,9 +466,19 @@ Polijsten rest
 
 </details>
 
+#### Take aways coaching session 2
+
+During this meeting we talked about the progression of our application thusfar.
+
+The technical side of things was pretty much on schedule (we had our first prototype), but documenting it not so much.
+
+We also discussed the end deliverables and how to present them.
+
+One of the decisions we made based on this meeting was presenting the product by making people use it at the spot (on their own devices for example).
+
 ## Code reviews
 
-I also had two code reviews with Koop, where we reflected on my learning goals and how to achieve them.
+I also had two code reviews, where I reflected on my learning goals and how to achieve them.
 
 <details>
 <summary>
@@ -417,7 +494,7 @@ snel itereren op onze stack, testen kan daardoor snel
 
 mooi product neerzetten
 
-testen
+veel testen
 
 productbiografie - procesboek, individueel readme, leerdoelen, dit gesprek, proces
 
@@ -426,6 +503,33 @@ design rationale - bij het product, wij vorm, readme over installeren ed.
 _ga iets cools maken_
 
 </details>
+
+#### Take aways code review 1
+
+Focus on what _i_ want to learn during this project, not on what the UX'ers are currently doing. We should just deliver a good product we can be proud of.
+
+We also discusssed incorporating learning goals and not forcing the learning goals into the application if they are unnecessary.
+
+We concluded that because we were so quick determining the tech stack, we could now test a lot and make many iterations, which we did during this project.
+
+<details>
+<summary>
+Code review 2, click to expand
+</summary>
+
+Comments weergeven op pagina
+
+Issue op detail page -> description
+
+Belangrijkste flow 100% duidelijk voor een leek
+
+Wat moet er donderdag staan
+
+</details>
+
+During this meeting we talked about the end deliverables and how to take the last steps into finishing our application.
+
+We concluded that the most important thing would be to make the application usable for someone without any prior knowledge.
 
 ## Conclusion
 
