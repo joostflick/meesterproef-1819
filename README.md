@@ -30,11 +30,14 @@
       - [Take aways coaching session 2](#Take-aways-coaching-session-2)
   - [Code reviews](#Code-reviews)
       - [Take aways code review 1](#Take-aways-code-review-1)
-  - [Conclusion](#Conclusion)
 
 ## Description
 
 This Read me contains my personal documentation for the end assignment of the Web Design minor. In this document I will describe the assignment, my learning goals during this project and what I did to reach those goals.
+
+[Check out the repo of the application here, with a more technical description](https://github.com/peppequint/wikiminds)
+
+[Check out and play around with the live application!](www.wikiminds.herokuapp.com)
 
 ## Wikiminds
 
@@ -530,7 +533,3 @@ Wat moet er donderdag staan
 During this meeting we talked about the end deliverables and how to take the last steps into finishing our application.
 
 We concluded that the most important thing would be to make the application usable for someone without any prior knowledge.
-
-## Conclusion
-
-My final conclusion on this project
